@@ -14,6 +14,7 @@ def sort_names(names):
     return sorted(names)
 
 # Written by: Joury (Task 3)
+# Converts all names to uppercase letters
 def to_upper(names):
 
     return [name.upper() for name in names]
