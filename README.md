@@ -3,7 +3,7 @@
 
 | Student | Function |
 |---------|----------|
-| Noura | count_names|
+| Nourah | count_names|
 | Lina  | sort_names |
 | Joury |  to_upper  |
 | Kady  |            |
