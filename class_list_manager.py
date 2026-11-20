@@ -10,6 +10,7 @@ def count_names(names):
     return len(names)
 
 # Written by: Lena (Task 2)
+# Sorts all names in alphabetical order
 def sort_names(names):
     return sorted(names)
 
