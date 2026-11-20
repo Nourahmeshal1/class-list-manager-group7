@@ -6,4 +6,4 @@
 | Nourah | count_names|
 | Lina  | sort_names |
 | Joury |  to_upper  |
-| Kady  |            |
+| Kady  | search_name |
