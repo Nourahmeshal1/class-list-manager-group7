@@ -18,10 +18,20 @@ def sort_names(names):
 def to_upper(names):
 
     return [name.upper() for name in names]
+
+# Written by: Kadi (Task 4)
+def search_name(names, name):
+    for n in names:
+        if n == name:
+            return True
+    return False
+    
 def main():
     print("Welcome to the Class List Manager!")
     print("Class list:", names)
     print("Number of names:", count_names(names))
     print("Sorted names:", sort_names(names))
     print("Names in uppercase:", to_upper(names))
+    print("Is Lama in the list?", search_name(names, "Lama"))
+    
 main()
