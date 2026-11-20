@@ -4,6 +4,6 @@
 | Student | Function |
 |---------|----------|
 | Nourah | count_names|
-| Lina  | sort_names |
+| Lena  | sort_names |
 | Joury |  to_upper  |
 | Kadi | search_name |
